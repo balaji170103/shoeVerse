@@ -38,3 +38,12 @@ clean/build
 12:05 Added the navigation link inside 
 
 12:07 Runed and tested it is redirecting to webpage and abousus content is displayed.
+
+
+1900 Started pair programming Kenechi and I(siva sai )
+1905 pulled the project from the repo
+1910 Tested the application if its running or not 
+1915 started working on product list
+1920 created productController , Products model, and products view 
+1925 Implemented code for product/index.cshtml
+1930 tested the application 
