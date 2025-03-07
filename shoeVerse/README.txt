@@ -47,3 +47,12 @@ clean/build
 1920 created productController , Products model, and products view 
 1925 Implemented code for product/index.cshtml
 1930 tested the application 
+
+
+Clean started at 02:48 AM...
+1>------ Clean started: Project: shoeVerse, Configuration: Debug Any CPU ------
+========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+========== Clean completed at 02:48 AM and took 02.958 seconds ==========
+>Done building project "shoeVerse.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 02:49 AM and took 08.844 seconds ==========
